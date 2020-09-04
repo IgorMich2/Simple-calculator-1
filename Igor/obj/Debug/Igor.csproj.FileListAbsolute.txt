@@ -1,0 +1,20 @@
+C:\Users\Student\Igor\Igor\bin\Debug\Igor.exe.config
+C:\Users\Student\Igor\Igor\bin\Debug\Igor.exe
+C:\Users\Student\Igor\Igor\bin\Debug\Igor.pdb
+C:\Users\Student\Igor\Igor\obj\Debug\Igor.csprojResolveAssemblyReference.cache
+C:\Users\Student\Igor\Igor\obj\Debug\Igor.Properties.Resources.resources
+C:\Users\Student\Igor\Igor\obj\Debug\Igor.csproj.GenerateResource.Cache
+C:\Users\Student\Igor\Igor\obj\Debug\Igor.csproj.CoreCompileInputs.cache
+C:\Users\Student\Igor\Igor\obj\Debug\Igor.exe
+C:\Users\Student\Igor\Igor\obj\Debug\Igor.pdb
+C:\Users\Student\Igor\Igor\obj\Debug\Igor.Form1.resources
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\bin\Debug\Igor.exe.config
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\bin\Debug\Igor.exe
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\bin\Debug\Igor.pdb
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\obj\Debug\Igor.csprojAssemblyReference.cache
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\obj\Debug\Igor.Form1.resources
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\obj\Debug\Igor.Properties.Resources.resources
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\obj\Debug\Igor.csproj.GenerateResource.cache
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\obj\Debug\Igor.csproj.CoreCompileInputs.cache
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\obj\Debug\Igor.exe
+D:\Моя папка\Образование\Портфолио проектов\Калькулятор C#\Igor\obj\Debug\Igor.pdb
